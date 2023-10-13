@@ -3,7 +3,7 @@ kind: pipeline
 type: kubernetes
 name: default
 
-# remove this section if your CPU is amd64
+# remove this section if your CPU is amd64 correct
 platform:
   os: linux
   arch: arm64
